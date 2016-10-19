@@ -5,3 +5,5 @@ print("Hello my dear friend")
 print("Glad to see you")
 
 print("Everything's all right")
+
+alert(«А будет круче»)
