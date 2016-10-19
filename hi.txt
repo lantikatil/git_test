@@ -1,2 +1,2 @@
-print('Hi')
-print('How dod you do')
+print('Hi;')
+print('How dod you do;')
