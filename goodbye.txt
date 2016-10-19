@@ -1,2 +1,4 @@
 print("Goodbye World")
 print("Goodbye")
+print("See you later")
+print("there was good time")
