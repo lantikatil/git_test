@@ -3,3 +3,5 @@ print('How dod you do;')
 
 print("Hello my dear friend;")
 print("Glad to see you;")
+
+print("Everything's all right")
